@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d838c615.css",
+    "main.js": "/static/js/main.433ff8fe.js",
+    "static/js/787.3d4e0f4f.chunk.js": "/static/js/787.3d4e0f4f.chunk.js",
+    "static/media/5296765_camera_instagram_instagram logo_icon (1).png": "/static/media/5296765_camera_instagram_instagram logo_icon (1).20394791e2c90ab5121c.png",
+    "static/media/image 15.png": "/static/media/image 15.b250cabf0288d0750e9d.png",
+    "static/media/image 21.png": "/static/media/image 21.13464af11c2b71ab5b06.png",
+    "static/media/image 22.png": "/static/media/image 22.34f96458ad976284c9ee.png",
+    "static/media/image 18.png": "/static/media/image 18.4cf2cd2b235633c79b25.png",
+    "static/media/image 17.png": "/static/media/image 17.9707d54cda971def4383.png",
+    "static/media/image 19.png": "/static/media/image 19.1024cafad8f14c3f49fc.png",
+    "static/media/image 13.png": "/static/media/image 13.a10dd6d6e7931c19835a.png",
+    "static/media/youtube.png": "/static/media/youtube.bc069a2b5e1ecdb5e06e.png",
+    "static/media/image 24.png": "/static/media/image 24.f0f5c067c6f287e7fd5c.png",
+    "static/media/image 23.png": "/static/media/image 23.00a0be6599247b160767.png",
+    "static/media/image 16.png": "/static/media/image 16.51e3ae3fbaed14690cdd.png",
+    "static/media/5296516_tweet_twitter_twitter logo_icon.png": "/static/media/5296516_tweet_twitter_twitter logo_icon.3a655e8ba8a9efd824c5.png",
+    "static/media/image40.png": "/static/media/image40.09f6138d568adfdbe9b0.png",
+    "index.html": "/index.html",
+    "main.d838c615.css.map": "/static/css/main.d838c615.css.map",
+    "main.433ff8fe.js.map": "/static/js/main.433ff8fe.js.map",
+    "787.3d4e0f4f.chunk.js.map": "/static/js/787.3d4e0f4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d838c615.css",
+    "static/js/main.433ff8fe.js"
+  ]
+}
